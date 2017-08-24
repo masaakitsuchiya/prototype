@@ -1,0 +1,68 @@
+
+
+
+footer.footer_for_interviewee{
+background-color: rgba(220,100,100,1);
+  height:50px;
+  width:100%;
+}
+
+.footer_text{
+  padding-top:10px;
+  padding-bottom:10px;
+  color:#fff;
+  font-size:1.2em
+}
+.footer_text_for_i{
+  padding-top:10px;
+  padding-bottom:10px;
+  color:#fff;
+  font-size:1.2em
+}
+
+html{
+  /*height:100%;*/
+  font-family:font-family: "Hiragino Kaku Gothic ProN","メイリオ", sans-serif;
+}
+body{
+  background:#f8f8f8;
+  /*height:100%;*/
+  margin:0;
+  padding-top:70px;
+}
+
+div.radio_item{
+  border: 1px solid #000;
+}
+
+.gray{
+  color:#aaa;
+}
+.navbar-default {
+background-color: rgba(220,100,100,0.8);
+border-color:;
+
+}
+.navbar-default .navbar-nav > li > a {
+color: #ffffff;
+}
+.navbar-default .navbar-brand {
+color: #ffffff;
+}
+.navbar-right{
+  padding-right:10px;
+}
+/* navbar ハンバーガー三本線 */
+.navbar-default .navbar-toggle .icon-bar {
+background-color: #ffffff;
+}
+
+.back_to_select{
+  margin-top:30px;
+}
+.mb-20{
+  margin-bottom:20px;
+}
+.mb-40{
+  margin-bottom:40px;
+}
